@@ -1,4 +1,4 @@
-## Oiii eu sou o Heitor Gonçalves, criador de conteúdo de programação e tecnologia!
+eu sou o Heitor Gonçalves, criador de conteúdo de programação e tecnologia!
 
 <div style="display: inline_block"><br>
   <h3>Linguagens que domino:</h3>
